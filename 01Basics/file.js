@@ -23,6 +23,8 @@ const fs = require("fs")
 // });
 
 
+
+
 // fs.appendFileSync("./test.txt", new Date().getDate().toLocaleString())
 // File doesn't over right but it appends a new string object number or date
 
